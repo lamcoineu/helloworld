@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td>Phạm</td>
-      <td>Văn Thanh</td>
+      <td>Văn Thanh 1</td>
       <td>22</td>
     </tr>
     <tr>
